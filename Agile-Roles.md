@@ -33,14 +33,20 @@
    **Other supporting roles (e.g., stakeholders, UX, customer support)**: <br>
 
 2. How do these roles collaborate in Kanban vs. Scrum?
-   📝 Reflection
+   - In Scrum, roles plan in sprints; in Kanban, they pull tasks and flow continuously.
+
+📝 Reflection
 
 3. What is your role, and how does it contribute to the Agile process?
+   - I build and test features, delivering small updates for fast feedback.
 
 4. How do your responsibilities overlap or interact with other roles in the team?
+   - I align with the Product Owner and QA to refine needs and meet criteria.
 
 🛠️ Task
 
 1. Write a short description of how your role fits into the Agile team.
+   - I turn stories into tested features and join planning and reviews.
 
 2. Identify one other role you frequently collaborate with and describe how you can improve teamwork with them.
+   - I partner with the Product Owner; clear criteria and early feedback reduce rework.
