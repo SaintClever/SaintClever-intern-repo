@@ -13,16 +13,34 @@ Cyber security breaches can lead to data leaks, financial loss, and reputational
 ### 🔍 Research & Learn
 
 1. What are common cyber security threats in a remote work environment?
+   - Password leaks
+   - Unsecured or public Wi-Fi networks
 
 2. What are best practices for keeping your devices and accounts secure?
+   - Never leave devices unattended in public locations
+   - Create strong, unique passwords and update them regularly
+   - Keep software and operating systems up to date
+   - Enable two-factor authentication (2FA) whenever possible
+   - Verify the sender before responding to company emails
+   - Avoid sending sensitive data over email or chat applications
 
 3. Why is it important to lock your computer when away from your desk?
+   - Prevents unauthorized access to your user account, sensitive data, and company information
+   - Use auto-lock or sleep features, especially in public spaces
 
 4. How should you handle phishing attempts and suspicious links?
+   - Verify the sender before opening emails or messages
+   - Do not click suspicious links or download attachments
+   - Report suspicious activity to your security department if applicable
 
 5. What makes a strong password, and why should you use a password manager?
+   - Strong passwords are long, unique, and difficult to guess, helping prevent hackers from accessing personal or company data
+   - Password managers securely store and manage passwords, reducing the risk of reusing weak passwords
 
-6. Why is two-factor authentication (2FA) important, and when should you enable it?<br>
+6. Why is two-factor authentication (2FA) important, and when should you enable it?
+   - 2FA provides an extra layer of security beyond passwords
+   - Helps protect company and personal information from unauthorized access
+   - Should be enabled on all accounts that support it, especially for sensitive or critical systems
 
 ### 📝 Reflection
 
