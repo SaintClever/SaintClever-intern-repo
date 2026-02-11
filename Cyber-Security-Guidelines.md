@@ -45,19 +45,29 @@ Cyber security breaches can lead to data leaks, financial loss, and reputational
 ### 📝 Reflection
 
 1. What security measures do you currently follow, and where can you improve?
+   - I use a screen lock, two-factor authentication (2FA), strong (long & unique) passwords, and a password manager.
+   - Improvement: Enable 2FA for all accounts where it’s available.
 
 2. How can you make secure behaviour a habit rather than an afterthought?
+   - Start small and track progress.
+   - Create a list of all sites where you have login information, then secure each one gradually using 2FA and a password manager.
+   - Set reminders to review and update passwords regularly.
 
 3. What steps will you take to ensure your passwords and accounts are secure?
+   - Use a password manager to generate and store strong passwords.
+   - Enable 2FA on all accounts that support it.
+   - Regularly update passwords and review account activity for unusual behavior.
 
 4. What would you do if you suspected a security breach or suspicious activity on your account?
+   - Immediately change the password for the affected account.
+   - Enable 2FA if not already enabled.
+   - Notify the security team or IT department.
+   - Monitor account activity for unauthorized access.
 
 ### 🛠️ Task
 
-1. Ensure your work accounts have strong passwords and enable 2FA where possible.
-
-2. Review your password storage method—if you’re not using a password manager, consider setting one up.
-
-3. Set up your computer and phone to automatically lock (require a password or biometric login) if you are away for more than a few minutes
-
-4. Document one new cyber security habit you will follow at Focus Bear.
+1. Ensure your work accounts have strong passwords and enable 2FA where possible. ✅
+2. Review your password storage method—if you’re not using a password manager, consider setting one up. ✅
+3. Set up your computer and phone to automatically lock (require a password or biometric login) if you are away for more than a few minutes ✅
+4. Document one new cyber security habit you will follow at Focus Bear. ✅
+   - Example habit: Regularly review and update all account passwords and ensure 2FA is enabled.
